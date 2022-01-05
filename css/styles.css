@@ -1,0 +1,40 @@
+body {
+  background-color: #F0ECE3
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #6e6b50;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  color: #7c795d; font-family: 'Helvetica Neue', sans-serif; font-size: 50px; font-weight: bold; letter-spacing: 1px; line-height: 1; text-align: left;
+}
+h2{
+  color: #7c795d; font-family: 'Helvetica Neue', sans-serif; font-size: 30px;letter-spacing: 1px;
+}
+h3{
+  color: #7c795d; font-family: 'Helvetica Neue', sans-serif; font-size: 20px;letter-spacing: 1px;
+}
+a{
+  color:#66644d;font-family: 'Helvetica Neue', sans-serif;
+}
+p{
+  color: #66644d;font-family: 'Helvetica Neue', sans-serif; justify-content: flex-end;letter-spacing: 1px;
+}
+td{
+  color: #66644d;font-family: 'Helvetica Neue', sans-serif; justify-content: flex-end;letter-spacing: 1px;
+}
+th{
+  color:#66644d;font-family: 'Helvetica Neue', sans-serif;
+}
+
+/* a:link { color: blue; }          /* Unvisited links */
+/* a:visited { color: purple; }     /* Visited links */
+/* a:hover { background: yellow; }  /* Hovered links */
+/* a:active { color: red; }         /* Active links */
+
+/* p:active { background: #eee; }   /* Active paragraphs */ 
